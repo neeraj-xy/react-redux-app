@@ -1,3 +1,7 @@
+# App Screenshot
+![Screenshot 2023-06-28 at 23 41 01](https://github.com/neeraj-xy/react-redux-app/assets/15978298/b0cde205-812c-4456-ae90-5888a7a19c12)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
